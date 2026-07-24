@@ -1,3 +1,24 @@
 body {
-    font-family: verdana;
+    font-family: helvetica;
+    text-align: center;
+    background-color: rgb(244, 80, 80);
+}
+
+a:link {
+    color: cyan;
+}
+
+a:hover {
+    color: yellow;
+}
+
+img {
+    max-height: 240px;
+    max-width: 600px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.navigation-links {
+    text-align: left;
 }
