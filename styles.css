@@ -28,3 +28,7 @@ img {
 .navlinks {
     text-align: left;
 }
+
+li, p {
+    text-align: left;
+}
