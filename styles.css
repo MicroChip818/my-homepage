@@ -1,5 +1,11 @@
+@import url('https://googleapis.com');
+
+
 body {
-    font-family: helvetica;
+  font-family: 'Luckiest Guy', cursive, sans-serif;
+}
+
+body {
     text-align: center;
     background-color: rgb(244, 80, 80);
 }
@@ -19,6 +25,6 @@ img {
     object-position: center;
 }
 
-.navigation-links {
+.navlinks {
     text-align: left;
 }
